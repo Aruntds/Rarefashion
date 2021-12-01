@@ -1,0 +1,4 @@
+v 1.0==========  21-11-2018
+Here you will have the thrid-party intergrations like, payment gateways, social login, etc..,
+
+You can add new sets by commenting, like "why you wanted that new option."

@@ -1,0 +1,1 @@
+INSERT INTO `js_wishlist` (  `wish_userid`, `wish_prdtid`, `product_variant_id`, `status`, `updatedon`, `createdon` ) VALUES (  '130',  '1',  '1',  '1','2021-11-20 12:03:59','2021-11-20 12:03:59')

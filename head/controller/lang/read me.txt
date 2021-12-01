@@ -1,0 +1,21 @@
+v 1.0==========  21-11-2018Here you will have the globally used terms in different language.  You should not delete any language files or change any existing variables.You can add new sets by commenting, like "why you wanted that new option. 
+
+
+V 1.1======== 02/03/19
+
+Customer Create and List headings and Field Labels added by Kavitha, Rashmi
+
+Customer Pola Create and List headings and Field Labels added by Kavitha, Rashmi
+
+Stock Category Create and List headings and Field Labels added by Kavitha, Rashmi
+
+V 1.2 ========= 04/03/2019 Changed by kavitha
+
+Language files are separated as Custom Language, General Language, Page Title Language
+
+V 1.3 ========= 05/03/2019 added by Kavitha
+
+Added field
+ labels for Main Category and Sub category in Custom Language
+
+Added Page Titles for Main Category and Sub category in Page Title Language

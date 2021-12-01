@@ -1,0 +1,14 @@
+v 1.0==========  21-11-2018Here you will have the globally used functions.  Also the mySQL functions will have common mysql_query.Create new file if you want to add  custom function.You can add new sets by commenting, like "why you wanted that new option."v 1.1==========  30-11-2018Updated mysql_queries to functions.  mysql error() not working.  Not fixed.  - updated by mohan
+
+
+v 1.1 ========== 02-03-2019 added by Kavitha
+
+Added functions for Gender, Marital Status 
+
+v 1.2 ========== 02-03-2019 added by Rashmi
+
+Added functions for Category type and Parent Category
+
+V 1.3 ========== 04-03-2019 added by Kavitha
+
+Added functions for Get Parent Category, Category Type Label

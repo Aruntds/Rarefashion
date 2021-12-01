@@ -1,0 +1,6 @@
+variant_ID,parentproduct,variant_name,variant_code,variant_mrp_price,variant_msp_price,variant_taxtype,variant_tax_value,variant_opening_stock,variant_available_stock,variantstockstatus,status,deleted
+1,BB00006J,Mediem,BB00006J,580,510,Y,18,10,10,In-Stock,1,0
+2,BB00007J,Small,BB00006J,580,510,Y,18,10,10,In-Stock,1,0
+3,BB00008J,Large,BB00006J,580,510,Y,18,10,10,In-Stock,1,0
+4,BB00009J,Xtra Large,BB00006J,580,510,Y,18,10,10,In-Stock,1,0
+5,BB00001J,X Xtra Large,BB00006J,580,510,Y,18,10,10,In-Stock,1,0

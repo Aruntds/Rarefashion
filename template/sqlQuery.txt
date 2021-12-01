@@ -1,0 +1,1 @@
+INSERT INTO `js_customer` (  `user_id`, `status`, `updatedon`, `createdon` ) VALUES (  '119',  '1','2021-08-19 18:31:14','2021-08-19 18:31:14')

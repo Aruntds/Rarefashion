@@ -1,0 +1,1 @@
+INSERT INTO `js_offers_items` (  `offers_id`, `prdt_id`, `offers_product_code`, `offers_product_name`, `offers_product_price`, `updatedon`, `createdon` ) VALUES (  '8',  '23',  'BT00087M',  'Set with t-shirt and vest for older boy',  '500','2021-11-25 21:09:01','2021-11-25 21:09:01')

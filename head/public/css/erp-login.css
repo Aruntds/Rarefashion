@@ -1,0 +1,134 @@
+.l-box, .r-box {
+	height: 50vh;
+	width: 100%;
+}
+.l-box {
+	background: rgb(0 71 230 / 85%); /*#161a23*/
+	padding: 0px 20px;
+}
+.r-box {
+	background: #00a16f; /*#1a2226 */
+}
+
+.bg-image-cover-style { background: none; }
+
+@media (min-width: 768px) {
+	.l-box, .r-box {
+		height: 95vh;
+		width: 100%;
+	}
+	
+	.bg-image-cover-style {
+		background: url('../img/discussion.svg') no-repeat;
+	}
+
+}
+@media screen and (max-width: 600px) {
+	.l-box { padding: 15px 15px; height: 14vh; }	
+	.r-box { padding-top: 10vh;	}	 
+	body { background: #00a16f;	}
+	.show-inmobile { display: block !important; height: 15vh; }
+	.mobile-style h4 { font-size: 18px !important; }
+	.mobile-style p { font-size: 12px !important; }
+}
+
+/*  login screen */
+.login-title h2 {
+	margin-top: 15px;
+	font-size: 30px;
+	margin-top: 15px;
+	color: #fff;
+}
+
+.login-form {
+	margin-top: 25px;
+	text-align: left;
+}
+
+.login-form input[type=text] {
+	background-color: #00a16f;
+	border: none;
+	border-bottom: 2px solid #fff;
+	border-top: 0px;
+	border-radius: 0px;
+	outline: 0;
+	margin-bottom: 20px;
+	padding-left: 0px;
+	color: #fff;
+}
+
+.login-form input[type=password] {
+background-color: #00a16f;
+	border: none;
+	border-bottom: 2px solid #fff;
+	border-top: 0px;
+	border-radius: 0px;
+	outline: 0;
+	padding-left: 0px;
+	margin-bottom: 20px;
+	color: #fff;
+}
+
+.login-form .form-group {
+	margin-bottom: 40px;
+	outline: 0px;
+}
+
+.login-form .form-control:focus {
+	border-color: inherit;
+	-webkit-box-shadow: none;
+	box-shadow: none;
+	border-bottom: 2px solid #fff;
+	outline: 0;
+	background-color: rgb(22,26,35, 0.12);
+	color: #fff;
+}
+
+.login-form input:focus {
+	outline: none;
+	box-shadow: 0 0 0;
+}
+
+.login-form label {
+	margin-bottom: 0px;
+}
+
+.login-form .form-control-label, .login-title span {
+	font-size: 14px;
+	color: #fff;
+	letter-spacing: 1px;
+}
+
+.login-form .btn-outline-primary {
+	border-color: #ffffff;
+	color: #ffffff;
+	border-radius: 0px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+}
+
+.login-form .btn-outline-primary:hover {
+	background-color: rgb(22,26,35, 0.12);
+	right: 0px;
+}
+
+.login-form .login-btm {
+	float: left;
+}
+
+.login-form .login-button {
+	padding-right: 0px;
+	text-align: right;
+	margin-bottom: 25px;
+}
+
+.login-form .login-text {
+	text-align: left;
+	padding-left: 0px;
+	color: #fff;
+}
+
+.login-form .loginbttm {
+	padding: 0px;
+}

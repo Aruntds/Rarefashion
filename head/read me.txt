@@ -1,0 +1,2 @@
+v 1.0==========  21-11-2018First read me document for JACKVU v 1.0 - mohanv 1.1==========  30-11-2018 - mohan[reference :https://momentjs.com/timezone/docs/#/use-it/browser/]v 1.2========== 21-12-2018Included popper.min.js link to enable button dropdown - mohan
+v 4.0========== 10-12-2018Jackus v 4.0 UI upgrade requested by Marketing Team.Validation reference - [https://devhints.io/parsley]
