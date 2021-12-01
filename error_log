@@ -1,0 +1,268 @@
+[08-Jul-2021 02:25:37 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home2/rubafsgf/touchmarkdes.space/rarefashions/checkout.php on line 540
+[26-Jul-2021 12:17:31 Asia/Kolkata] PHP Warning:  include_once(jackus.php): failed to open stream: No such file or directory in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 12
+[26-Jul-2021 12:17:31 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'jackus.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 12
+[26-Jul-2021 12:17:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function reguser_protect() in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 14
+[26-Jul-2021 12:26:05 Asia/Kolkata] PHP Warning:  include_once(jackus.php): failed to open stream: No such file or directory in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 12
+[26-Jul-2021 12:26:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'jackus.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 12
+[26-Jul-2021 12:26:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function reguser_protect() in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 14
+[26-Jul-2021 12:26:30 Asia/Kolkata] PHP Warning:  include_once(jackus.php): failed to open stream: No such file or directory in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 12
+[26-Jul-2021 12:26:30 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'jackus.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 12
+[26-Jul-2021 12:26:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function reguser_protect() in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 14
+[26-Jul-2021 12:26:35 Asia/Kolkata] PHP Warning:  include_once(jackus.php): failed to open stream: No such file or directory in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 12
+[26-Jul-2021 12:26:35 Asia/Kolkata] PHP Warning:  include_once(): Failed opening 'jackus.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 12
+[26-Jul-2021 12:26:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to undefined function reguser_protect() in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php:14
+Stack trace:
+#0 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/category.php on line 14
+[19-Aug-2021 10:21:41 Asia/Kolkata] PHP Warning:  require_once(vendor/autoload.php): failed to open stream: No such file or directory in /home3/rubafsgf/touchmarkdes.space/rarefashions/config1.php on line 3
+[19-Aug-2021 10:21:41 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home3/rubafsgf/touchmarkdes.space/rarefashions/config1.php on line 3
+[19-Aug-2021 13:57:04 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Can't Load URL: The domain of this URL isn't included in the app's domains. To be able to load this URL, add all domains and subdomains of your app to the App Domains field in your app settings. in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:131
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Faceboo in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 131
+[19-Aug-2021 14:00:38 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. Required param "state" missing. in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php:241
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/index2.php(19): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 241
+[19-Aug-2021 14:01:29 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. Required param "state" missing. in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php:241
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/index2.php(19): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 241
+[19-Aug-2021 14:17:45 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 14:18:00 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. The "state" param from the URL and session do not match. in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php:257
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/index2.php(19): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 257
+[19-Aug-2021 14:49:32 Asia/Kolkata] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/rubafsgf/touchmarkdes.space/rarefashions/logout1.php on line 6
+[19-Aug-2021 14:49:32 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/rubafsgf/touchmarkdes.space/rarefashions/logout1.php:1) in /home3/rubafsgf/touchmarkdes.space/rarefashions/logout1.php on line 8
+[19-Aug-2021 15:02:27 Asia/Kolkata] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/rubafsgf/touchmarkdes.space/rarefashions/logout1.php on line 6
+[19-Aug-2021 15:02:27 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/rubafsgf/touchmarkdes.space/rarefashions/logout1.php:1) in /home3/rubafsgf/touchmarkdes.space/rarefashions/logout1.php on line 8
+[19-Aug-2021 15:57:27 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. Required param "state" missing. in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php:241
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/index2.php(19): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 241
+[19-Aug-2021 15:57:30 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. Required param "state" missing. in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php:241
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/index2.php(19): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 241
+[19-Aug-2021 15:57:36 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. Required param "state" missing. in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php:241
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/index2.php(19): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 241
+[19-Aug-2021 15:57:39 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. Required param "state" missing. in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php:241
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/index2.php(19): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 241
+[19-Aug-2021 16:12:13 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:12:21 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:12:54 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:31:06 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:32:56 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:34:10 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:37:32 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:38:47 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:39:30 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:39:41 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:11 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:37 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:41 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:44 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:46 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:48 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:52 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:54 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 16:40:58 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 17:09:01 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 18:39:48 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 18:40:52 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 18:41:06 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 18:41:13 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 18:41:15 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
+[19-Aug-2021 18:41:19 Asia/Kolkata] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookAuthenticationException: Expected 1 '.' in the input between the postcard and the payload in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php:106
+Stack trace:
+#0 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(210): Facebook\Exceptions\FacebookResponseException::create(Object(Facebook\FacebookResponse))
+#1 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(255): Facebook\FacebookResponse->makeException()
+#2 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookResponse.php(82): Facebook\FacebookResponse->decodeBody()
+#3 /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/FacebookClient.php(224): Facebook\FacebookResponse->__construct(Object(Facebook\FacebookRequest), '{"error":{"mess...', 0, Array)
+#4 /hom in /home3/rubafsgf/touchmarkdes.space/rarefashions/vendor/facebook/graph-sdk/src/Facebook/Exceptions/FacebookResponseException.php on line 106
